@@ -1,0 +1,697 @@
+,name,link,types
+0,Fidelity Nordic A-Acc-EUR,0P0000YRWM,OPC
+1,BNP Paribas Finance Europe ISR Classic,MP-805107,OPC
+2,CM-AM Amérique 500 Dollar C,0P000125KP,OPC
+3,BNP Paribas Nordic Small Cap Cl C,0P00011VSF,OPC
+4,CM-AM Indiciel Amérique 500 RC,MP-963625,OPC
+5,Prévoir Gestion Actions C,MP-806535,OPC
+6,CM-AM Indiciel Japon 225 RC,MP-807654,OPC
+7,State Street Eurozone Value Spotlight P,0P0000Z9W6,OPC
+8,Norden SRI,MP-829935,OPC
+9,Echiquier Positive Impact Europe A,MP-664642,OPC
+10,HSBC GIF Euroland Value AC,MP-303598,OPC
+11,DPAM B Equities Euroland B Cap,MP-591135,OPC
+12,BNPP Energie & Industrie Europe ISR Clss,MP-805106,OPC
+13,LCL Actions Monde hors Europe D,MP-804230,OPC
+14,JPM Euroland Dynamic A perf (acc) EUR,0P0000U4WV,OPC
+15,Fidelity Sustainable Eurp Eq A-Dis-EUR,MP-554038,OPC
+16,HSBC Europe Equity Income AC,MP-805883,OPC
+17,HSBC Europe Equity Income AD,MP-805884,OPC
+18,AXAWF Italy Eq A Cap EUR,MP-303134,OPC
+19,AXAWF Italy Eq A Dis EUR,MP-308328,OPC
+20,DNCA Value Europe C,MP-806042,OPC
+21,Federal Optimal Plus ESG P,MP-288625,OPC
+22,JPM Euroland Equity A (acc) EUR,MP-200019,OPC
+23,JPM Euroland Equity A (dist) EUR,MP-434292,OPC
+24,BNP Paribas Indice Euro Classic C,0P00011NSY,OPC
+25,State Street EMU ESG Scrn Eq P Acc,MP-492196,OPC
+26,State Street EMU ESG Scrn Eq P Inc,0P00015X6N,OPC
+27,State Street EMU ESG Scrn Idx Eq P EUR,0P00016MNP,OPC
+28,G Fund Equity Convictions ISR NC,MP-947577,OPC
+29,AXAWF Fram Sust Eurozone A Cap EUR,MP-487496,OPC
+30,DNCA Invest Value Europe B EUR,MP-420347,OPC
+31,Trusteam ROC Europe R,MP-805266,OPC
+32,AXA Euro Valeurs Responsables C,MP-802420,OPC
+33,AXA Euro Valeurs Responsables D,MP-803529,OPC
+34,BNPP Sustainable Europe Value Cl C,MP-503799,OPC
+35,BNPP Sustainable Europe Value Cl D,MP-503800,OPC
+36,Carmignac Pf Grande Europe A EUR Acc,MP-308229,OPC
+37,Echiquier Agressor A,MP-800952,OPC
+38,DWS Invest ESG Top Euroland LC,MP-552516,OPC
+39,HSBC Actions Europe AC,MP-802872,OPC
+40,HSBC Actions Europe AD,MP-802873,OPC
+41,Norden Small IC,0P0000YYPV,OPC
+42,BNP Paribas Technologies Eurp ISR Class,MP-805109,OPC
+43,DPAM B Equities Eur Div B EUR Cap,MP-590042,OPC
+44,Carmignac Pf Grande Europe E EUR Acc,MP-972587,OPC
+45,CM-AM Europe Value RC,MP-801100,OPC
+46,AXA Valeurs Euro Action D,MP-828955,OPC
+47,AXA Valeurs Euro Action C,MP-828954,OPC
+48,Echiquier Major SRI Growth Europe A,MP-806392,OPC
+49,CM-AM Europe Dividendes RC,0P0000Z816,OPC
+50,CM-AM Europe Dividendes RD,0P0000Z817,OPC
+51,R-co 4Change Net Zero Equity Euro C EUR,MP-828155,OPC
+52,abrdnI-Europe ex UK Sust Equity A AccEUR,MP-217910,OPC
+53,Allianz Valeurs Durables RC,MP-829569,OPC
+54,Allianz German Equity AT EUR,0P0000X891,OPC
+55,Allianz Actions Euro Innovation C,MP-804927,OPC
+56,BNP Paribas Développement Humain C,MP-805108,OPC
+57,HSBC Euro Equity Volatility Focused A,MP-806336,OPC
+58,BNP Paribas Actions Patrimoine ISR C C,MP-800223,OPC
+59,BNP Paribas Actions Patrimoine ISR C D,MP-806288,OPC
+60,DNCA Actions Small&Mid Cap Euro RC,MP-496450,OPC
+61,Invesco Euro Equity A EUR Acc,0P00016PEL,OPC
+62,Comgest Renaissance Europe C,MP-829523,OPC
+63,Fidelity Germany A-Dis-EUR,MP-434112,OPC
+64,Fidelity Sustainable Euroz Eq A-Acc-EUR,MP-217600,OPC
+65,Allianz Actions Euro Innovation D,MP-829704,OPC
+66,Mirova Actions Euro RC,0P00016P4O,OPC
+67,Ofi Invest ESG Euro Equity R,0P0001BLFP,OPC
+68,Tocqueville Megatrends ISR C,MP-806641,OPC
+69,Mirova Euro Sustainable Eq R/C EUR,0P000100RL,OPC
+70,Invesco Euro Equity E EUR Acc,0P00016PEN,OPC
+71,Tocqueville Value Europe ISR P,MP-804104,OPC
+72,Lazard Small Caps Euro SRI R,MP-442585,OPC
+73,CM-AM Euro Equities RC,MP-805788,OPC
+74,LCL Actions Euro D,MP-809562,OPC
+75,Allianz Actions Euro Convictions C,MP-804290,OPC
+76,BNP Paribas Euro Equity C C,0P0000YSY7,OPC
+77,BNP Paribas Euro Equity C D,0P0000YSY8,OPC
+78,HSBC Europe Small & Mid Cap AC,MP-803647,OPC
+79,HSBC Europe Small & Mid Cap AD,MP-803648,OPC
+80,HSBC GIF Euroland Eq Smlr Coms AC,MP-358626,OPC
+81,R-co 4Change Equity Euro C,MP-828585,OPC
+82,BNP Paribas Sélection Dynamique PEA,MP-802701,OPC
+83,Carmignac Absolute Ret Eur A EUR Acc,MP-802605,OPC
+84,La Française Actions EURCO2 Responsable R,MP-632366,OPC
+85,Echiquier Climate & Biodivs Impct Eurp A,0P0001LG9T,OPC
+86,Allianz Actions Aéquitas R C/D,MP-804793,OPC
+87,Lazard Alpha Euro SRI R,MP-540959,OPC
+88,LMdG Familles & Entrepreneurs (EUR) P,MP-807229,OPC
+89,Schroder ISF EURO Equity A Acc EUR,MP-357219,OPC
+90,Federal Indiciel Apal P,MP-806038,OPC
+91,DNCA Evolutif PEA C,MP-815038,OPC
+92,Palatine Planète I,MP-807435,OPC
+93,HSBC RIF SRI Euroland Equity AC,MP-802363,OPC
+94,Tocqueville Dividende ISR C,MP-804712,OPC
+95,Tocqueville Dividende ISR D,MP-804713,OPC
+96,Dorval Convictions PEA RC,MP-801528,OPC
+97,Amplegest Pricing Power AC,MP-815031,OPC
+98,Federal Focus European Economy P,MP-804235,OPC
+99,BNPP Best Sélection Actions Euro ISR CC,MP-805458,OPC
+100,BNPP Best Sélection Actions Euro ISR CD,MP-829697,OPC
+101,Echiquier Value Euro A,0P0000XTRG,OPC
+102,DNCA Opportunites Zone Euro C,0P000155QH,OPC
+103,Centifolia D,MP-805275,OPC
+104,Centifolia C,MP-805274,OPC
+105,DPAM B Eqs Eur Sm Cap Sust B,MP-590661,OPC
+106,CM-AM Japon 225 YEN,0P000150V8,OPC
+107,Lazard Investissement PEA-PME R,0P00012D6M,OPC
+108,Dorval Manageurs R C,MP-806677,OPC
+109,BNP Paribas Smallcap Euroland ISR C C,0P000015L9,OPC
+110,BNP Paribas Smallcap Euroland ISR C D,0P000015LA,OPC
+111,Dorval Manageurs Europe R C,0P0000U4TM,OPC
+112,Allianz Euroland Equity Growth AT EUR,MP-998983,OPC
+113,HSBC RIF Europe Eq Green Transition AC,MP-805038,OPC
+114,HSBC RIF Europe Eq Green Transition AD,MP-805039,OPC
+115,Echiquier Alpha Major SRI A,0P0001HHSO,OPC
+116,R-co Conviction Equity Value Euro C EUR,MP-806533,OPC
+117,AXA France Opportunités C,MP-803777,OPC
+118,AXA France Opportunités D,MP-805560,OPC
+119,Generali Investissement C,MP-829362,OPC
+120,LCL Actions Euro Futur C,MP-800611,OPC
+121,Generali Investissement D,MP-806095,OPC
+122,Mandarine Europe Microcap R EUR,0P00018KOU,OPC
+123,Generali IS Euro Future Leaders DX,MP-175357,OPC
+124,R-co Conviction Equity Value Euro F EUR,MP-570104,OPC
+125,Seeyond Euro Sustainable Minvol R,MP-829756,OPC
+126,AXA Indice France C,MP-931698,OPC
+127,AXA Indice France D,MP-828910,OPC
+128,Tocqueville Small Cap Euro ISR D,MP-801491,OPC
+129,Tocqueville Small Cap Euro ISR C,MP-801490,OPC
+130,Ofi Invest ESG Equity Climate Change RC,0P0001C8KS,OPC
+131,Thematics Europe Sélection RC,MP-809846,OPC
+132,Thematics Europe Sélection RD,MP-829720,OPC
+133,Echiquier Agenor SRI Mid Cap Europe A,MP-805948,OPC
+134,CM-AM Sustainable Planet RC,MP-804098,OPC
+135,BNP Paribas Indice France ESG Classic C,MP-800939,OPC
+136,BNP Paribas Indice France ESG Classic D,MP-802810,OPC
+137,Mandarine Unique S&M Caps Europe R EUR,MP-683859,OPC
+138,Fidelity Europe A,MP-804891,OPC
+139,OFI Invest Act4 Positive Eco R C EUR,0P00015TUP,OPC
+140,DNCA SRI Euro Quality RC,MP-829520,OPC
+141,DNCA SRI Euro Quality RD,MP-805881,OPC
+142,CM-AM Human Care RC,0P000175VV,OPC
+143,LCL Actions France D,MP-809511,OPC
+144,CM-AM Equilibre Europe C,MP-804903,OPC
+145,R-co Opal Equity Europe,MP-805184,OPC
+146,CM-AM Equilibre Europe D,MP-802693,OPC
+147,Richelieu Family R,0P00012DC3,OPC
+148,BNP Paribas Floréal 70 Classic C,0P00011W9I,OPC
+149,Pluvalca Sustainable Opportunities A,0P0001FG1E,OPC
+150,DWS Invest German Equities LC,0P0000WUYZ,OPC
+151,AXA PEA Régularité C,MP-804325,OPC
+152,AXA PEA Régularité D,MP-805421,OPC
+153,CM-AM Europe Growth RC,MP-802280,OPC
+154,Pluvalca Allcaps A,MP-803638,OPC
+155,HSBC Actions France AC,MP-803749,OPC
+156,HSBC Actions France AD,MP-803513,OPC
+157,HSBC Actions Patrimoine AC,MP-802666,OPC
+158,HSBC Actions Patrimoine AD,MP-806210,OPC
+159,Cogefi Valeur P,MP-805425,OPC
+160,LCL Sérénité PEA C,MP-804644,OPC
+161,Richelieu Pragma Europe R,MP-804146,OPC
+162,Mandarine Valeur R,MP-192236,OPC
+163,DNCA Invest SRI Europe Gr B EUR,0P0000XTFE,OPC
+164,R-co Conviction France C,MP-805895,OPC
+165,Richelieu Cityzen RD,0P00017S0H,OPC
+166,Richelieu Cityzen R,MP-805486,OPC
+167,Clartan Europe C,0P000156ZV,OPC
+168,R-co Conviction France FC,0P0000TKNY,OPC
+169,Tocqueville France ISR C,MP-805715,OPC
+170,Tocqueville France ISR D,MP-805716,OPC
+171,Gay-Lussac Microcaps Europe P,0P0001J8W1,OPC
+172,AXA France Small Cap C,MP-828908,OPC
+173,AXA France Small Cap D,MP-828909,OPC
+174,Generali France Future Leaders C,MP-805185,OPC
+175,Echiquier Agenor Euro SRI Mid Cap A,0P0001H3Z4,OPC
+176,Palatine Entreprises Familiales,MP-803917,OPC
+177,Gay-Lussac Green Impact A,MP-806567,OPC
+178,BNP Paribas Midcap France ISR Classic D,MP-829696,OPC
+179,Amplegest Midcaps AC,MP-957286,OPC
+180,Lazard Small Caps France R,MP-442578,OPC
+181,Kirao Multicaps AC,0P00014B56,OPC
+182,Pluvalca Small Caps A,MP-803639,OPC
+183,Cogefi Prospective P,MP-803004,OPC
+184,Groupama Avenir Euro NC,MP-999283,OPC
+185,Insertion Emplois Dynamique RC,MP-542774,OPC
+186,Ecofi Avenir Plus,MP-805666,OPC
+187,Talence Optimal AC,MP-678499,OPC
+188,Quadrige France Smallcaps C,0P0000ZEJL,OPC
+189,Kirao Multicaps Alpha C,0P00014B59,OPC
+190,CM-AM PME-ETI Actions RC,0P000125M7,OPC
+191,Kirao Smallcaps AC,0P00016FUF,OPC
+192,BNP Paribas Valeurs Françaises ISR Cl C,MP-800178,OPC
+193,BNP Paribas Valeurs Françaises ISR Cl D,MP-806115,OPC
+194,Mirova Europe Environmental Eq R/A EUR,0P00011IV8,OPC
+195,Mandarine Entrepreneurs R,0P0001CO8S,OPC
+196,Gay-Lussac Smallcaps A,0P00012QV1,OPC
+197,Talence Euromidcap AC,0P000147O1,OPC
+198,R-co Midcap France,MP-801451,OPC
+199,Pluvalca Disruptive Opportunities A,0P00017QX8,OPC
+200,Ecofi Trajectoires Durables C,MP-806704,OPC
+201,Quadrige Multicaps Europe C,0P0001D3S7,OPC
+202,LMdG Smid Cap (EUR) P,0P0000X9BU,OPC
+203,Quadrige Europe Midcaps C,0P00019O4X,OPC
+204,Quadrige Rendement France Midcaps C,0P000153BU,OPC
+205,Tocqueville PME P,0P00011GDS,OPC
+206,Tocqueville PME R,0P00011GDU,OPC
+207,Palatine France Small Cap I,MP-800357,OPC
+208,AIS Mandarine Opportunités P,MP-800281,OPC
+209,Mandarine Opportunités R,MP-407646,OPC
+210,Dorval Manageurs Smid Cap Euro RC,0P0001AJ57,OPC
+211,HSBC Euro PME AC,MP-804245,OPC
+212,HSBC Euro PME AD,MP-804246,OPC
+213,Pluvalca Initiatives PME A,0P0000XQ7F,OPC
+214,Amplegest PME AC,0P00011S1H,OPC
+215,DNCA Actions Euro Micro Caps R,MP-803302,OPC
+216,Dorval Manageurs Small Cap Euro RC,0P00011QYC,OPC
+217,Talence Sélection PME AC,0P00011RMN,OPC
+218,HSBC Microcaps Euro AD,MP-803525,OPC
+219,HSBC Microcaps Euro AC,MP-803524,OPC
+220,La Française Actions France PME C,MP-801535,OPC
+221,Axiom European Banks Equity ZC EUR,0P0001FKQ1,OPC
+222,Axiom European Banks Equity HC USD(hv),0P0001FKQ0,OPC
+223,HSBC Euro PME RC,0P00017MKL,OPC
+224,HSBC Small Cap France R,0P00012TN3,OPC
+225,AmaterrA Fondateurs,0P0001KGGU,OPC
+226,AIS Venn Collective Alpha US P,0P0001IM58,OPC
+227,FCP Eurocible N°5 Réserve C,0P0001I3CU,OPC
+228,Fidelity Nordic A-Acc-USD H,0P00011IMK,OPC
+229,Fidelity Nordic A-Dis-SEK,MP-434120,OPC
+230,Fidelity Iberia A-Dis-EUR,MP-434114,OPC
+231,BNP Paribas Apollo Low Carbon,0P0001Q6XQ,OPC
+232,LBPAM Actions PEA US GP,0P0001D2SP,OPC
+233,BNP Paribas Indice Amérique du Nord C,0P0000Y4WJ,OPC
+234,Federal Indiciel US P,MP-805820,OPC
+235,Norden Family IC,0P0001ED7B,OPC
+236,Tocqueville Finance ISR R,MP-804346,OPC
+237,Nordic Equities Strategy,0P00000GSI,OPC
+238,BNP Paribas Nordic Small Cap Cl H NOKD,0P00019IQA,OPC
+239,Sycomore Sélection Responsable I USD H,0P0001HMPD,OPC
+240,BNP Paribas Indice Amérique du Nord CH,0P00016I4W,OPC
+241,Hanséatique B,MP-807246,OPC
+242,Federal Indiciel US H,0P0001BQD4,OPC
+243,Placeuro Abacus Discovery I,0P0000294X,OPC
+244,DNB Fund Nordic Equities retail A,0P00000GFL,OPC
+245,Iriséa PEA Environnment Reserve C,0P0001M2JQ,OPC
+246,Euro Immo-Scope P1,MP-815161,OPC
+247,Digital Stars Continental Europe I USD H,0P0001MWVE,OPC
+248,Federal Indiciel Japon H,0P0001BQD3,OPC
+249,iMGP Italian Opportunities N EUR,MP-504075,OPC
+250,Janus Henderson Hrzn Euroland A2 HUSD,0P00012NG3,OPC
+251,Maxima A,MP-806476,OPC
+252,Sycomore Sélection Responsable I,0P0000SEKN,OPC
+253,Lyxor Index Fund Euro Stoxx 50 (DR) SE,MP-501752,OPC
+254,Janus Henderson HrznPnEurpMd&LrgCpR1HUSD,0P0000ONRJ,OPC
+255,Varenne Valeur A USD Acc,0P0001OOI4,OPC
+256,Schroder ISF Eurp Equity Imp C Dis GBP H,0P0001DYJL,OPC
+257,Varenne Valeur P GBP Acc,0P0001OOI8,OPC
+258,Alken European Opportunities US2h,0P00015BMH,OPC
+259,BNP Paribas Seasons Classic C,0P0001IG8O,OPC
+260,JOHCM Continental European B USD Hdg Inc,0P00012MKQ,OPC
+261,Protea Orcadia Eq EMU SRI Ex-Fsl A,0P0001F55B,OPC
+262,Fidelity Italy A-Dis-EUR,MP-434116,OPC
+263,HSBC Actions Monde AC,MP-802892,OPC
+264,JPM Euroland Equity A (acc) USDH,0P00011I06,OPC
+265,SG Haussmann France Index 1,MP-275955,OPC
+266,Yomoni Monde PEA A,0P0001MWAK,OPC
+267,DNCA Invest Value Europe H-A USD,0P000183UL,OPC
+268,TM CRUX European Special Sit I Acc EUR,0P00015JNZ,OPC
+269,Varenne Valeur A CHF Acc,0P0001OOJ9,OPC
+270,DPAM B Equities Euroland Sust F Cap,0P0001LGHW,OPC
+271,Tocqueville Technology ISR R,MP-804349,OPC
+272,Pergam Rising Dividend EUR-I Cap,0P00012DRO,OPC
+273,Antarius Fonds Actions Plus C,MP-964359,OPC
+274,Trianance 6 Ans N°15 C,0P0001MFGE,OPC
+275,Groupama Europe Actions Immobilier IC,0P0000UHQL,OPC
+276,Montségur Croissance C,MP-806271,OPC
+277,DWS Invest ESG Top Euroland USD LCH,0P00011HCE,OPC
+278,RAM (Lux) Sys European Equities DH USD,0P0000K703,OPC
+279,Threadneedle(Lux)Pan Eurp ESGEqs ASH SGD,0P0000VQZM,OPC
+280,Amundi MSCI EMU ESG Ldrs Sel IHU-C,0P00017P7Z,OPC
+281,Varenne Valeur A EUR Acc,0P0001OOS9,OPC
+282,Janus Henderson Hrzn Euroland A2 EUR,MP-42017,OPC
+283,Principal European Rspnb Eq I Acc SGD H,0P0001OMNZ,OPC
+284,France Epargne Actions D,MP-964360,OPC
+285,ODDO BHF Algo Trend Eurozone DIw-EUR,0P00017NKJ,OPC
+286,BNPP Easy Lw Cb 100 Euroz PAB TrClEURAcc,0P0001NG6P,OPC
+287,Lyxor Index Fund Euro,MP-803130,OPC
+288,Euro Convictions ISR GF,MP-518686,OPC
+289,BFT Partners - Via Equity Europe SRI PC,0P0001HS9P,OPC
+290,HSBC Euro Actions AC,MP-803558,OPC
+291,VIA Smart-Equity Europe Private CHF Acc,0P00017YX0,OPC
+292,Lazard Investissement Microcaps,0P0000TG4X,OPC
+293,Lazard Europe Concentrated A,MP-829461,OPC
+294,Lyxor Index Fund Euro B,MP-803994,OPC
+295,Schroder ISF Eurp Equity Imp A Acc EUR,0P0000SO14,OPC
+296,Alken Small Cap Europe A,0P0000Z2NB,OPC
+297,VIA Smart-Equity Europe Cbn Ntrl Pvt EUR,0P0001LJ20,OPC
+298,Janus Henderson Hrzn PnEurpMd&LrgCpR1EUR,0P0000ONRI,OPC
+299,HSBC GIF Euroland Value ED,MP-993858,OPC
+300,Threadneedle(Lux)Pan Eurp ESG Eqs DE EUR,MP-356013,OPC
+301,Echiquier Impact et Solidaire A,0P0001O8CM,OPC
+302,SEB Nordic Future Opportunity C EUR,0P00000MDF,OPC
+303,Allianz Valeurs Durables RC H2-USD,0P0001K1SD,OPC
+304,Barings German Growth A USD Hdg Acc,0P000163VM,OPC
+305,CM-AM Convictions Euro RC,0P0001HNLZ,OPC
+306,Tocqueville Value Euro ISR MH,0P0000UHCI,OPC
+307,Digital Stars Eurozone R,0P0001EQB5,OPC
+308,Dividende Durable RC,0P0001J4KQ,OPC
+309,DNCA Euro Dividend Grower ID,0P0000YWWK,OPC
+310,SG Haussmann France Index 3,MP-275956,OPC
+311,BGF Euro-Markets A2 CHF Hedged,0P0000SPQW,OPC
+312,SG Haussmann France Index 2,MP-275954,OPC
+313,Carac Actions Euro C,MP-491618,OPC
+314,Myria Actions Durables Europe,0P00019Q8D,OPC
+315,JPM Euroland Dynamic D perf (acc) EUR,0P0000U4WW,OPC
+316,Principal European Rspnb Eq A Inc USD,MP-7157,OPC
+317,Vanguard EURz Stk Idx EUR Acc,MP-353119,OPC
+318,JOHCM Continental European B GBP,MP-353036,OPC
+319,BBR Europe C,MP-958064,OPC
+320,Schelcher Equity Convictions I,0P0001QYD9,OPC
+321,Fidecum SICAV Avant-garde Stock Fd A EUR,0P000010OZ,OPC
+322,DNCA Engage N,0P0001GZYA,OPC
+323,Alken European Opportunities A,0P0000PVYU,OPC
+324,BNPP E MSCI EMU ESG FTD MINTETrkPrivlCap,0P00017IR5,OPC
+325,Indosuez Euro Patrimoine PD,MP-805418,OPC
+326,Fidelity Germany A-Acc-USD H,0P00012JRL,OPC
+327,JPM Euroland Dynamic C perf (acc) USDH,0P00016XF8,OPC
+328,Indosuez Euro Rendement PC,MP-802925,OPC
+329,OFI Invest Act4 Social Impact R-C,0P00015TUT,OPC
+330,Natixis Solutions Seeyond Protect 75 R,0P0001LUN2,OPC
+331,Entheca Top European Manager I,0P0001CNE3,OPC
+332,AXA Indice Euro C,MP-803782,OPC
+333,Eurocible N°4 Réserve C,0P0001FAGQ,OPC
+334,LBPAM ISR Actions Euromonde MH,MP-815071,OPC
+335,BGF Euro-Markets E2,MP-355793,OPC
+336,LCL Impact Social 2021 ECHU C C,0P0001O51S,OPC
+337,Carmignac Pf Grande Europe A CHF Acc Hdg,0P0000WXIX,OPC
+338,Mirabaud-Discovery Eur ex UK A EUR Acc,0P000172TY,OPC
+339,Groupama Euro Equities MC,0P00015LGD,OPC
+340,Epargne Ethique Actions C,MP-803863,OPC
+341,Hugau Rendement Responsable C,MP-815086,OPC
+342,Europe Income Family R,MP-802111,OPC
+343,Etoile Multi Gestion Europe C,MP-805704,OPC
+344,Invesco Euro Equity A GBPH Acc,0P00017IRM,OPC
+345,Mandarine Improvers R,0P000152AJ,OPC
+346,Tocqueville Croissance Euro ISR MH,MP-289962,OPC
+347,Jupiter Europe ex UK Equity I GBP Acc,0P0001EEJ1,OPC
+348,DNCA Invest SRI Norden Eur B EUR,0P00019WJL,OPC
+349,BNP Paribas Valeurs Euro ISR I,MP-545723,OPC
+350,LBPAM ISR Actions Focus Euro R,MP-828588,OPC
+351,Promepar Actions Rendement O,0P0000XSTY,OPC
+352,BNP Paribas Euro Climate Aligned Class C,MP-807012,OPC
+353,Claresco Europe P,0P00018FWN,OPC
+354,Schroder ISF EURO Equity A1 Acc PLN Hdg,0P0000YKBY,OPC
+355,THEAM Quant Eurp Clmt Carbon Offs Plan C,0P0001H115,OPC
+356,Portzamparc Opportunités ISR C,MP-800577,OPC
+357,LBPAM ISR Actions Euro Focus Emergent I,0P0000T390,OPC
+358,Digital Stars Continental Europe P,0P0001I2GQ,OPC
+359,BNPP E MSCI EMU SRI 5% Cp Track Cl Cap,0P0001INHG,OPC
+360,Amundi MSCI EMU ESG Ldrs Sel AE-C,MP-442076,OPC
+361,Stratégie Euro ISR Sicav A,MP-964333,OPC
+362,Conservateur Actions Euro C,0P0001P8TA,OPC
+363,Lazard Equity SRI PC EUR,MP-804698,OPC
+364,Flornoy Valeurs Familiales I,0P0000VVWC,OPC
+365,Covéa Actions Europe Opportunités A,MP-802944,OPC
+366,Roche-Brune Europe Valeurs Respons P,MP-805959,OPC
+367,Seven UCITS Seven European Eqty Fd EUR-R,0P00016OZ4,OPC
+368,E.T.H.I.C.A. RC2,0P0001I60C,OPC
+369,AIS Venn Collective Alpha Europe P,0P0001IM5A,OPC
+370,Evli Europe B,0P00000NW8,OPC
+371,CD Euro Capital C,MP-805433,OPC
+372,Indosuez Allocation PEA,MP-807367,OPC
+373,UFF Dynasties Familiales M,0P0001R9E8,OPC
+374,Montségur Dividendes C,MP-807079,OPC
+375,LFR Inclusion Responsable ISR GP,0P0001HZQR,OPC
+376,LBPAM ISR Actions Europe Monde S,MP-523646,OPC
+377,DWS Invest ESG Top Euroland NC,MP-552518,OPC
+378,RAM (Lux) Sys Emg Mkts Core Eq F USD,0P0000ZVK7,OPC
+379,Tremplin PME M R,0P00012HOP,OPC
+380,UFF Tremplin PME C C,0P00012HR3,OPC
+381,UFF Euro Valeur ISR,MP-807135,OPC
+382,Amundi Fds Euroland Equity A CHF H C,0P0000ZXWA,OPC
+383,BNP Paribas Indice Euro Classic D,MP-965929,OPC
+384,Fédéris ISR Euro MH,MP-815072,OPC
+385,BNP Paribas Actions Euro ISR Classic,0P0000VDTZ,OPC
+386,Stratégie Allemagne ISR,MP-964343,OPC
+387,BNPP E ESG EurozBiodiversityLdrs PABTrkI,0P0001PSJF,OPC
+388,Stratégie Europe Actions ISR P,0P0001IOJW,OPC
+389,Pictet-Euroland Index R EUR,MP-216945,OPC
+390,Bati Actions Investissement PEA I,0P0001IEZR,OPC
+391,Echiquier Entrepreneurs A,0P0000ZTA4,OPC
+392,Amundi Fds Euroland Equity E2 EUR C,0P00000RMD,OPC
+393,Barings German Growth B GBP Acc,0P0001FC14,OPC
+394,Barings German Growth A GBP Acc,MP-8225,OPC
+395,BNP Paribas Deep Value ISR Classic,MP-545755,OPC
+396,Mansartis Zone Euro ISR C,MP-937928,OPC
+397,Indosuez Funds Europe Opportunities PX,0P000147HB,OPC
+398,DNCA Invest Beyond Semperosa A,0P0001FFDU,OPC
+399,GS Eurozone EQ Inc-X Cap EUR,MP-503076,OPC
+400,Bestinver Great Companies R EUR Cap,0P0000JBG1,OPC
+401,Optigest Europe C,MP-806847,OPC
+402,Lyxor Gari Actions Européennes,MP-805681,OPC
+403,Threadneedle (Lux) UK Equity Income DE,0P00018QHM,OPC
+404,Liberté Euro PEA C,MP-805902,OPC
+405,MCA Europe R,MP-801849,OPC
+406,Synchrony (LU) EU All Caps I EUR Acc,0P0001O5D7,OPC
+407,Euro Valeur ISR M,MP-964318,OPC
+408,Amundi ESG Improvers Euro NC,0P0000604S,OPC
+409,Covéa Actions Europe D,MP-802756,OPC
+410,Placements Rationnels &quot;R&quot; C,MP-805278,OPC
+411,UFF Actions Europe Evolutif C,MP-807146,OPC
+412,DNCA Invest Archer Mid-Cap Europe B EUR,0P000188P3,OPC
+413,Talence 2015,0P0000UVTZ,OPC
+414,Betamax Europe Smart for Climate P,0P00011OI9,OPC
+415,CM-AM Flexible Euro RC,0P0001HNKZ,OPC
+416,Autofocus Low Carbon Décembre 2021,0P0001ODLK,OPC
+417,Lazard Actions Euro R,MP-442535,OPC
+418,BNP Paribas Actions Rendement ISR Clss,MP-805493,OPC
+419,ValEuro Select R,MP-805852,OPC
+420,Delubac Pricing Power P,MP-806747,OPC
+421,FDC Citadelle Euro R,0P00018OEO,OPC
+422,R-co Conviction Eq Mlt Caps Euro C EUR,MP-805865,OPC
+423,IDE Dynamic Euro C,0P000156BA,OPC
+424,Ofi Invest ESG Euro Equity C,MP-805244,OPC
+425,Tocqueville Euro Equity ISR S,MP-523611,OPC
+426,Europe Evolutif M,0P00013X7V,OPC
+427,ALM Actions Zone Euro ISR IC,MP-806494,OPC
+428,LBPAM Responsable Actions Euro R,MP-829809,OPC
+429,SG Actions Energie Europe C,MP-806067,OPC
+430,LMdG Sélection Gérants Europe C,MP-807226,OPC
+431,R-co 4Change Inclus & Handicap Eq C EUR,0P000163R3,OPC
+432,Eolos A,0P0001BL3G,OPC
+433,Tocqueville Environnement ISR D,MP-524000,OPC
+434,29 Haussmann Actions Europe D,MP-467371,OPC
+435,Laffitte ESG Dividend EUR-R,0P0001HXHE,OPC
+436,AIS Schelcher Equity Convictions P,MP-805815,OPC
+437,LBPAM ISR Actions Europe E,MP-807423,OPC
+438,Neuflize Euro Actions ESG C,0P0001N3ME,OPC
+439,CPR Invest Euro Strat Autonomy A-EUR-Acc,0P0001QRM0,OPC
+440,Ofi Invest ESG Crois Dur Solid C,MP-805200,OPC
+441,Tailor Actions Avenir ISR C,MP-801531,OPC
+442,Covéa Terra A,0P0001DKGF,OPC
+443,LBPAM ISR Stratégie PEA 2 R,0P0000TM7J,OPC
+444,BRED Sélection ISR C,0P0001IMGK,OPC
+445,Alphajet Europe Microcap C,0P0001NTAC,OPC
+446,Conviction Autocalls I,0P0001ECEO,OPC
+447,G Fund Opportunities Europe NC,MP-381353,OPC
+448,Russell Inv Pan European Equity PAMEU,MP-502444,OPC
+449,Ossiam Governance For Climate SI1C,0P0001PQMJ,OPC
+450,LBPAM ISR Actions 80 S,MP-523656,OPC
+451,Covéa Aqua A,0P0001DKGD,OPC
+452,Mandarine Europe Microcap B4 GBPH,0P00018MU7,OPC
+453,Vega Europe Convictions ISR RC,MP-805803,OPC
+454,LBPAM ISR Pro Actions Euro MH,0P0000YWUP,OPC
+455,Stratégie EuroActions Dividendes,0P0000TF3Z,OPC
+456,Tailor Actions Entrepreneurs C,0P0001E03F,OPC
+457,Threadneedle Eurp Smlr Coms Z Acc GBP,0P0000YBQJ,OPC
+458,Médi-Actions C/D,MP-807318,OPC
+459,Mirova Actions Euro RD,MP-828973,OPC
+460,Lazard Small Caps Euro SRI I,MP-805713,OPC
+461,BNPP Multigestion ISR Actions Euro C,0P00015TEI,OPC
+462,BNP Paribas Actions Croissance ISR Class,MP-958354,OPC
+463,LFR Actions Solidaires ISR I,MP-443455,OPC
+464,Flornoy Convictions R,MP-815061,OPC
+465,Amundi Pulsactions C/D,MP-965224,OPC
+466,BL-European Family Businesses B USD Hdg,0P00019M2J,OPC
+467,CT (Lux) Eur Smlr Com 1FH CHF,0P0001EUA1,OPC
+468,LCL Autocall Mars 2023 C,0P0001R7AL,OPC
+469,Ofi Invest ESG Actions Euro C,MP-805198,OPC
+470,Tiepolo Europe R,0P00016EJ0,OPC
+471,SG Evolution PEA N°3 C,0P0001KOI4,OPC
+472,Alphajet France C,0P0001NU7B,OPC
+473,Vega France Opportunités ISR RC,MP-277775,OPC
+474,Eleva UCITS Eleva Euroland Sel A2EUR acc,0P0001H3AJ,OPC
+475,Indépendance et Expansion Europe Smll AC,0P0001DKPM,OPC
+476,Ofi Invest ISR Valeurs Europe I,MP-805990,OPC
+477,LBPAM ISR Multi Actions Euro A,MP-409604,OPC
+478,Threadneedle (Lux) UK Eqs DG GBP Acc H,0P0001B94F,OPC
+479,EdR SICAV Euro Sustainable Eq R EUR,0P0001M709,OPC
+480,QBP Equity Next Generation,0P0001NDIO,OPC
+481,Ginjer Detox European Equity A,0P0001MYI1,OPC
+482,Atout Horizon C,MP-806105,OPC
+483,Fideas Smart for Climate Act Eurozone P,0P0001JY29,OPC
+484,LBPAM ISR Actions Solidaire C,MP-676202,OPC
+485,Luminéo 2 Garanti 3-6 Ans,MP-515841,OPC
+486,LCL Equilibre Actions Euro Responsable C,MP-514692,OPC
+487,Atout Clair Horizon C,MP-501569,OPC
+488,Florilège C,MP-805673,OPC
+489,Ecofi Endurance Euro C,MP-806647,OPC
+490,CT (Lux) Eur Smlr Com 1E EUR,0P0001EU9Z,OPC
+491,Etoile Euro Actions 10/2029 C,0P0001NQ4O,OPC
+492,LBPAM ISR Stratégie PEA 1 R,0P00013T87,OPC
+493,Amundi Equilibre Actions Euro Resp PC,MP-806992,OPC
+494,LT Funds - European General C-H USD,0P000162OK,OPC
+495,Mandarine Unique S&M Caps Europe R USD H,0P00011MON,OPC
+496,GEFIP Euroland I,0P0001QB6Z,OPC
+497,Médi-Actions Euro C/D,0P0000WTPN,OPC
+498,LCL Compensation Carbone Actions Euro P,0P0001OCFD,OPC
+499,Vega Alpha Opportunités ISR RC,0P00019LHK,OPC
+500,AMM Finance SICAV-Amazone Euro Fd,MP-213798,OPC
+501,Allianz Actions Euro C,MP-828445,OPC
+502,Schroder ISF EURp Div Mxmsr ADis$HMF,0P00012P06,OPC
+503,SG Patrimoine PEA C,0P00015XLF,OPC
+504,SG BlackRock Actions Euro ISR C,0P0001LO08,OPC
+505,Horizon Leaders Europe AC,0P0001M38T,OPC
+506,Arc Actions Rendement,0P0000U4MD,OPC
+507,BNP Paribas Apollo Economie Circulaire,0P0001ORA5,OPC
+508,H2O EuroPEA RC EUR,0P0001LF6O,OPC
+509,Indosuez Euro Expansion PC,MP-800288,OPC
+510,AFU,MP-805773,OPC
+511,CPR Invest Climate Action Euro A EUR Acc,0P00019KUL,OPC
+512,UFF Actions Europe Evolutif A,0P00016PAD,OPC
+513,The Dream 2,MP-420156,OPC
+514,Montanaro European Smlr Comp £,MP-353701,OPC
+515,CS (Lux) European Entrepreneur Eq B,0P0001J8QD,OPC
+516,Varenne Selection P-GBP,0P0001J4AM,OPC
+517,AXA IM Euro Sélection R,0P0001HJ9C,OPC
+518,Roche-Brune Euro Valeurs Respnsbl P,MP-807157,OPC
+519,Euromutuel Brongniart Valeurs Europ.,MP-487364,OPC
+520,HSBC RIF SRI Euroland Equity SC,0P0001MJYQ,OPC
+521,Natixis Solutions Protect 85 R,0P0001LUM8,OPC
+522,Livret Bourse Investissements RC,MP-809540,OPC
+523,DNCA Invest Euro Div Grower A2 EUR Cap,0P0001O8M3,OPC
+524,Irisea Reserve  EUR,0P0001OR5B,OPC
+525,AIM Lux C-Quadrat Europe Multicap R EUR,0P0001FU2V,OPC
+526,BNP Paribas Apollo Global Water,0P0001LO0B,OPC
+527,Farian,0P0001IAE8,OPC
+528,R-co Opal European Equity Managers,MP-807156,OPC
+529,Threadneedle (Lux) Pan Eurp SmCpOpps DUH,0P0001DKCP,OPC
+530,LFR Euro Développement Durable ISR P,MP-237353,OPC
+531,BDL Convictions C,MP-394390,OPC
+532,HSBC Multi-Asset Dyn Eur AD,MP-806088,OPC
+533,ActionPrivée Evolutif,MP-807296,OPC
+534,Amundi Fds Eurlnd Eq Sm Cap F2 EUR C,0P0000TILV,OPC
+535,Clartan Ethos ESG Europe Small & MidCapC,0P0001KSY6,OPC
+536,Finaltis Funds Europe Selection EUR,MP-301686,OPC
+537,LF LUX Inflection Point Carb Imp Euro R,0P0000JOBI,OPC
+538,BNP Paribas Euro Defensive Equity C C,MP-622795,OPC
+539,Impulsion Europe P,0P0000L1IQ,OPC
+540,BNP Paribas Europe Growth C RH SGD MD D,0P00010396,OPC
+541,HSBC GIF Euroland Eq Smlr Coms EC,MP-993856,OPC
+542,Capture Euro 2023,0P00016GP6,OPC
+543,BL-European Small & Mid Caps B USD Hdg,0P00016JAC,OPC
+544,LBPAM Actions Dividendes Euro ID,MP-508001,OPC
+545,Nemesia Mars 2030,0P0001OCFZ,OPC
+546,AIM LUX C-Quadrat Europe Sel R EUR,0P00018MNZ,OPC
+547,CM-AM Euro Equities R,MP-474413,OPC
+548,Threadneedle (Lux) UK Equity Income DEH,0P00018QHP,OPC
+549,R-co Thematic Silver Plus CL USD H,0P0001NFV0,OPC
+550,Sicav Echiquier Impact E,0P0001QG5V,OPC
+551,Tocqueville Silver Age ISR R,MP-804347,OPC
+552,Schroder ISF EURO Equity A Dis EUR AV,MP-307338,OPC
+553,Lyxor MSCI EMU ESG Broad CTB (DR) IE,MP-379408,OPC
+554,HMG Découvertes C,MP-546198,OPC
+555,Initiative Dynamique C,MP-270781,OPC
+556,29 Haussmann Sélection Europe D,MP-428955,OPC
+557,Eleva UCITS Eleva Ldrs SMCap EurpA1$Hacc,0P0001JTWH,OPC
+558,LCL Autocall Janv. 2022 ECHU C,0P0001OMC4,OPC
+559,Madeleine Europa One R,0P00016PVO,OPC
+560,Europa Valeurs,0P0000V0GG,OPC
+561,LCL Alto Mars 2023 C,0P0001R7AJ,OPC
+562,BNPP Apollo Gender Equality And Inclus,0P0001N83E,OPC
+563,Oudart Europe P,MP-803173,OPC
+564,LCL Autocall (Sept. 2021) C,0P0001NUA5,OPC
+565,PhiTrust Active Investors France A,MP-420152,OPC
+566,BNY Mellon Small Cap Euroland EUR A Acc,MP-354667,OPC
+567,Natixis ESG PEA,0P00019LF2,OPC
+568,Allianz Actions Aéquitas WC,0P0000XYZH,OPC
+569,HSBC GIF Euroland Growth EC,0P0000UV05,OPC
+570,Dorval European Climate Initiative NC,0P0001DXUA,OPC
+571,ONYX A,0P0001R0OX,OPC
+572,UFF Actions France,MP-273756,OPC
+573,DWS Invest German Equities USD LCH,0P0000ZBBK,OPC
+574,LCL Autocall Mars 2022 Echu C,0P0001PCII,OPC
+575,Ostrum Actions CAC 40 RC,0P0000TFQX,OPC
+576,Finaltis EfficientBeta Euro I,0P000147IB,OPC
+577,LCL Triple Horizon (Sept 2022) C,0P0001POFM,OPC
+578,Selection Euro Environnement (Jn 2022) C,0P0001QFSZ,OPC
+579,La Française Act Euro Capital Humain R,MP-474178,OPC
+580,Generali IS Euro Equity E EUR Acc,0P00011UGF,OPC
+581,Amundi Multi-Gérants Actions PC,MP-608835,OPC
+582,LBPAM ISR Actions Euro Min Vol I,0P0001IYVX,OPC
+583,Sélection France Social (Mai 2022) C,0P0001P8TD,OPC
+584,Vega Grande Europe I,MP-804394,OPC
+585,MAM Optima 25-125 C,MP-804116,OPC
+586,BL-Equities Europe PEA A EUR,0P0001MHF9,OPC
+587,CD Europe Expertise C,MP-806046,OPC
+588,SG DNCA Actions Euro ISR C,0P0001LO06,OPC
+589,Lazard Investissement PEA-PME A,0P00012D6L,OPC
+590,SLF (F) Equity ESG Euro Zone Min Vol P,MP-310906,OPC
+591,Palatine Planète R,MP-534378,OPC
+592,Covéa Solis A,0P0001DKGB,OPC
+593,Europe Entrepreneurs,MP-815085,OPC
+594,Sepiam Funds Europe Small Caps B,0P0001DVZ9,OPC
+595,FCH Fidelity Europe Equity P EUR Acc,0P0001PTOY,OPC
+596,Echiquier Excelsior A,MP-420630,OPC
+597,BFT Euro Futur ISR IC,MP-518202,OPC
+598,Sélection France Environnemnt Mai 2022 C,0P0001P8SP,OPC
+599,HSBC RIF SRI Dynamic AC,0P0001IG8H,OPC
+600,AB Eurozone Eq CX EUR,0P000019TZ,OPC
+601,LCL Triple Horizon Mars 2022 ECHU C,0P0001QEJG,OPC
+602,Candriam Sst Eq EMU C EUR Acc,0P000183G2,OPC
+603,Wise5PEA,0P0001C91J,OPC
+604,Cadmos-European Engagement A Cap,0P0000A9O8,OPC
+605,HSBC RIF Europe Eq Green Transition BC,0P0001C9BV,OPC
+606,Finovaleur A2,0P000140Y3,OPC
+607,Federal Optimal Gestion Privée ESG GP,0P0001J63T,OPC
+608,PhiTrust Active Investors Europe,MP-803700,OPC
+609,BNP Paribas Euro Equity C H CZK C,0P0000YSY6,OPC
+610,Dynamique Europe 2027 RC,0P0001MN60,OPC
+611,Amundi Equity Euro Conservative I2 C,0P00019QEQ,OPC
+612,Pluvalca Health Opportunities A,0P0001562A,OPC
+613,Apollo Emergents 2027,0P0001IOYM,OPC
+614,Candriam Eqs L EMU Innovt C EUR Cap,MP-198722,OPC
+615,Performance Monde Avenir Juin 2025 RC,0P0001KHCY,OPC
+616,Covéa Actions France C,MP-828938,OPC
+617,HSBC Euro Protect 80+ C,0P0001HNLY,OPC
+618,UFF Valeurs PME C,MP-807134,OPC
+619,EdR SICAV Equity Euro Solve B EUR,0P0001A8XT,OPC
+620,Allianz France Avenir RC,MP-800586,OPC
+621,Fourpoints Euro Global Leaders R,MP-420590,OPC
+622,Selection Euro Climat (Janvier 2023) C,0P0001R23T,OPC
+623,Threadneedle (Lux) UK Eqs DEH EUR Acc H,0P0001B94A,OPC
+624,LCL Triple Horizon Janv. 2022 ECHU C,0P0001OMBN,OPC
+625,Covéa Aeris A,0P0001DKGH,OPC
+626,Allianz Euroland Equity Growth AT H2 CHF,0P00011G36,OPC
+627,Covéa Actions Solidaires C,MP-488964,OPC
+628,Vega Transformation Responsable NC,0P0001KXRL,OPC
+629,LCL Europe Tour 2022 C,0P0001PO2E,OPC
+630,LBPAM ISR Actions Focus France R,MP-829691,OPC
+631,Sélection Euro Environnement Mai 2022 C,0P0001P4AG,OPC
+632,BSO Euro Santé P,0P0001P5RY,OPC
+633,LCL Triple Horizon (Avril 2022) C,0P0001PBGE,OPC
+634,Sélection Euro Climat (Septembre 2022) C,0P0001POF6,OPC
+635,LT Funds - European General A EUR,0P00001BYU,OPC
+636,Investir PEA Palatine,0P0001CWYJ,OPC
+637,Zélis Actions Européennes C,MP-804899,OPC
+638,Chorélia N°8 C,0P0001JX9S,OPC
+639,LCL Autocall (Avril 2022) C,0P0001PAXB,OPC
+640,Stratégie France,MP-964311,OPC
+641,Eukratos Gérants Actions Eurp (PEA) AC,0P0001FD5J,OPC
+642,Adara C,MP-377611,OPC
+643,Acticcia 90 N°7 C,0P000187P3,OPC
+644,LBPAM Actions PEA Emergents GP,0P0001H0JT,OPC
+645,AXA Act Carbon Offset Eurobloc Equity QI,MP-958833,OPC
+646,France Gan IC,MP-947581,OPC
+647,BSO Europe,MP-802611,OPC
+648,RMM Top Management D,MP-801185,OPC
+649,Coralium PEA Santé,0P0001Q3PE,OPC
+650,Federal Indiciel Japon P,MP-805819,OPC
+651,Great European Models SRI ID,0P00017G74,OPC
+652,Lazard Patrimoine PEA,0P0000WH77,OPC
+653,Sélection France Social (Sep 2022) C,0P0001POF8,OPC
+654,Sélection France Environnemnt Sep 2022 C,0P0001POF7,OPC
+655,Gay-Lussac Microcaps H,0P0001H3W3,OPC
+656,Delubac PEA P,MP-275725,OPC
+657,Invest Horizon Europe A,MP-501001,OPC
+658,BL-European Family Businesses B EUR,0P00019M2I,OPC
+659,Ofi Invest ESG Equity Climate Change I,MP-802696,OPC
+660,Acticcia 90 N°6 C,0P00016P31,OPC
+661,Larcouest Investissement,MP-273969,OPC
+662,Best Business Models SRI IC,0P00017G87,OPC
+663,Ecofi Optim Variance C,0P0000VRKG,OPC
+664,Varenne Selection A-EUR,MP-993530,OPC
+665,Myria Actions Durables France,0P0000YA3S,OPC
+666,Performance Monde Avenir Octobre 2025 RC,0P0001MV48,OPC
+667,LBPAM ISR Actions Small Cap Euro C,0P00000FFR,OPC
+668,Indépendance et Expansion France Smll AC,0P00001UFS,OPC
+669,UFF Valeurs PME A,0P00012HP2,OPC
+670,Mandarine Unique S&M Caps Europe R CHFH,0P0001EOKH,OPC
+671,Groupama France Stock NC,MP-802373,OPC
+672,LBPAM ISR Actions Diversifié R,MP-829175,OPC
+673,CM-AM Europe Growth R,MP-474378,OPC
+674,ALM Actions France,0P0001BCFJ,OPC
+675,Lazard Dividend LowVol SRI C,MP-394401,OPC
+676,LO Funds Cont Europe S&M Ldrs SH USD MA,0P00017FKE,OPC
+677,MC Spécial,MP-803679,OPC
+678,Initiative Equilibre C,MP-270787,OPC
+679,Schroder ISF Eurp Div Mxmsr A Acc EUR,MP-974013,OPC
+680,Allianz Euroland Equity Growth CT EUR,MP-974450,OPC
+681,Allocation Protection 80 R,0P00015KH3,OPC
+682,Titan Best Selection Euro 2026,0P0001HNKS,OPC
+683,ODDO BHF Sustainable German Eq DR-EUR,0P00000OYI,OPC
+684,Tocqueville Mid Cap Euro ISR MH,0P0000XXA4,OPC
+685,Agir avec la Fondation Abbé Pierre,MP-289310,OPC
+686,BNP Paribas Apollo Economie Circul II,0P0001POG6,OPC
+687,BNPP Apollo Global ESG Future Mobility,0P0001P8TS,OPC
+688,Galilée Innovation Europe RC,MP-805254,OPC
+689,Chorélia N°12 C,0P0001NC99,OPC
+690,LBP EthicEuro 100 Avril 2024,0P0001BKJ0,OPC
+691,MainFirst Top European Ideas Fund A3,0P00014ODT,OPC
+692,LBP EthicEuro 90 Juillet 2024,0P00019OFC,OPC
+693,Amundi Actions France ISR PD,MP-633492,OPC
+694,Generali IS Euro Future Leaders EX,MP-175362,OPC
+695,Evli Nordic B,0P00006EJU,OPC

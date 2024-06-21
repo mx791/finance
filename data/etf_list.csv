@@ -1,0 +1,103 @@
+,name,link,types
+0,iShares EURO STOXX Banks 30-15ETF DE acc,1rAEXA1,ETF partenaire
+1,iShares Core EURO STOXX 50 ETF EUR Dist,1rAEUEA,ETF partenaire
+2,iShares Core EURO STOXX 50 ETF EUR Acc,1rACSX5,ETF partenaire
+3,iShares STOXX Europe 600 Tech (DE) acc,1rASTEC,ETF partenaire
+4,iShares Core MSCI EMU UCITS ETF EUR Acc,1rACEMU,ETF partenaire
+5,iShares EURO STOXX Select Div 30 DE acc,1rAIDVA,ETF partenaire
+6,iShares MSCI EMU SRI ETF EUR Acc,1rASMUA,ETF partenaire
+7,iShares MSCI EMU SRI ETF EUR Inc,1rASMDU,ETF partenaire
+8,iShares Core DAX® ETF (DE) Acc,1rAEXS1,ETF partenaire
+9,iShares MSCI EMU Paris-Algnd ClmtETFEURDis,1rAMPAB,ETF partenaire
+10,iShares MSCI EMU Paris-Algnd ClmtETFEURAcc,1rAEMPA,ETF partenaire
+11,iShares STOXX Europe 600 Auto&P (DE) acc,1rASAOT,ETF partenaire
+12,iShares MSCI France ETF EUR Acc,1rAIFRE,ETF partenaire
+13,iShares Diversified Commodity Swap (DE),1rTCMSE,ETF partenaire
+14,iShares MSCI World Swap PEA ETF,1rTWPEA,ETF partenaire
+15,Amundi Euro Stoxx Banks ETF Acc,1rTBNKE,ETF
+16,Amundi STOXX Europe 600 Banks ETF Acc,1rTBNK,ETF
+17,Amundi IS ITALY MIB ESG ETF DR - EUR C,1rTFMI,ETF
+18,Amundi FTSE MIB ETF Dist,1rTMIB,ETF
+19,Amundi ETF PEA Japan Topix Daily Hdg EUR,1rTPTPXH,ETF
+20,Amundi PEA US Tech ESG ETF Acc,1rTPANX,ETF
+21,Lyxor STOXX Europe 600 Fin Svc ETF,1rTFIN,ETF
+22,Lyxor Stoxx Europe 600 Tec ETF Acc,1rTTNO,ETF
+23,Lyxor PEA Nasdaq-100 ETF Capi,1rTPUST,ETF
+24,Lyxor PEA Inde (MSCI India) ETF Capi,1rTPINR,ETF
+25,Lyxor STOXX Europe 600 Con & Mtl ETF,1rTCST,ETF
+26,Amundi PEA S&P 500 ESG ETF Acc,1rTPE500,ETF
+27,BNPP Easy S&P 500 ETF EUR C,1rTESE,ETF
+28,Lyxor PEA S&P 500 ETF Capi,1rTPSP5,ETF
+29,Amundi PEA S&P 500 ESG ETF EUR Hdg Acc,1rTP500H,ETF
+30,Lyxor PEA Im Eurp FTSE EPRA/NAREIT ETF C,1rTPMEH,ETF
+31,BNPP Easy S&P 500 ETF EUR H,1rTESEH,ETF
+32,Lyxor PEA S&P 500 ETF Couverte en EUR C,1rTPSPH,ETF
+33,Lyxor STOXX Europe 600 Media ETF Acc,1rTMDA,ETF
+34,Lyxor STOXX Eur 600 Idl Gd & Svc ETF,1rTIND,ETF
+35,BNPP E ESG Equity Momentum Europe ETFCap,1rTEMOM,ETF
+36,Amundi ETF MSCI Spain,1rTCS1,ETF
+37,Amundi PEA MSCI USA ESG Leaders ETF EUR,1rTCU2,ETF
+38,Lyxor MSCI EMU Value DR ETF Dist,1rTVAL,ETF
+39,Amundi IS MSCI World ETF C EUR,1rTCW8,ETF
+40,BNPP E ESG Equity Div Eurp ETF Cap,1rTEDEU,ETF
+41,HSBC EURO STOXX 50 ETF,1rT50E,ETF
+42,UBS(Lux)FS EURO STOXX 50 EUR Adis,1rAUIM1,ETF
+43,Amundi IS EURO STOXX 50 ETF-C EUR,1rTC50,ETF
+44,Amundi Euro Stoxx 50 II ETF Acc,1rTMSE,ETF
+45,BNPP Easy Euro Stoxx 50 ETF EUR C,1rTETDD,ETF
+46,Amundi PEA S&P US Industrials ESG ETFAcc,1rTPDJE,ETF
+47,Amundi PEA Eau (MSCI Water) ETF Capi,1rTAWAT,ETF
+48,Amundi S&P Euroz PAB Net Zero AmbtETFAcc,1rTEPAB,ETF
+49,Amundi MSCI Greece ETF Dist,1rTGRE,ETF
+50,SPDR® S&P Euro Dividend Aristocrats ETF,1rTEUDV,ETF
+51,SPDR® MSCI EMU ETF,1rTEMUE,ETF
+52,Amundi MSCI EMU ETF Dist,1rTMFE,ETF
+53,Vanguard FTSE Dev Eurp ex UK ETF Dis,1rAVERX,ETF
+54,BNPP Easy Stoxx Europe 600 ETF EUR C,1rTETZ,ETF
+55,Amundi MSCI EMU SRI PAB - DR ,1rALESE,ETF
+56,Amundi MSCI EMU SRI PAB - DR ,1rTEESG,ETF
+57,IndexIQ Factors Sustainable Emu Eq ETF C,1rTIQMU,ETF
+58,Amundi ETF PEA MSCI Europe,1rTPCEU,ETF
+59,Amundi IS Russell 2000 ETF-C EUR,1rTRS2K,ETF
+60,Amundi DAX III ETF Acc,1rTDAX,ETF
+61,Amundi ETF DAX DR,1rTCG1,ETF
+62,BNPP E ESG Equity Value Europe ETF Cap,1rTEVAE,ETF
+63,Amundi ETF MSCI EMU High Dividend,1rTCD8,ETF
+64,OSSIAM BLOOMBERG EUROZONE PAB NR,1rTOP2E,ETF
+65,Ossiam STOXX® Eur 600 ESG EqWgNRETF 1C,1rTS6EW,ETF
+66,Lyxor STOXX Euro 600 Auto & Prt ETF,1rTAUT,ETF
+67,Lyxor MSCI EMU Growth ETF DR Dist,1rTGWT,ETF
+68,Amundi CAC 40 ETF Dist,1rTCAC,ETF
+69,Amundi ETF PEA Japan Topix EUR,1rTPTPXE,ETF
+70,UBS(Lux)FS MSCI EMU SRI EUR Adis,1rAUIMR,ETF
+71,BNPP E ESG Equity Quality Europe ETF Cap,1rTEQUA,ETF
+72,Amundi IS CAC 40 ESG DR ETF-C,1rTC40,ETF
+73,BNP Paribas Easy CAC 40® ESG ETF,1rTE40,ETF
+74,Amundi ETF MSCI France,1rTCF1,ETF
+75,AmundiMSCI EMU ClNtZrAmbPAB UCITS ETFAcc,1rTPABZ,ETF
+76,Lyxor STOXX Europe 600 Chemicals ETF,1rTCHM,ETF
+77,OssiamShillerBarclaysCape®EuSeVlTR ETF1C,1rTCAPE,ETF
+78,Lyxor STOXX Europe 600 Insurance ETF,1rTINS,ETF
+79,SPDR® EURO STOXX Low Volatility ETF,1rTELOW,ETF
+80,Lyxor Stoxx Europe 600 Hlthcr ETF Acc,1rTHLT,ETF
+81,Amundi CAC Mid 60 (DR) ETF Dist,1rTCACM,ETF
+82,Lyxor STOXX Europe 600 Retail ETF,1rTRTA,ETF
+83,Lyxor PEA AsiePac MSCI ACAP ex Jpn ETF C,1rTPAEJ,ETF
+84,BNPP E ESG Equity Low Vol Europe ETF C,1rTEVOE,ETF
+85,Amundi PEA MSCI Emerg EMEA ESGLdrsETFAcc,1rTPLEM,ETF
+86,Amundi PEA MSCI EM ESG Ldrs ETF EUR C/D,1rTPAEEM,ETF
+87,Amundi PEA MSCI Em LA ESG Ldrs ETF EUR C/D,1rTPALAT,ETF
+88,Amundi MSCI EMU SCESGCTBNetZrAmbtETFDist,1rTMMS,ETF
+89,Amundi PEA MSCI Emerg Asia ESG Lead ETF,1rTPAASI,ETF
+90,Lyxor STOXX Eur 600 Pnl & Hhd Gd ETF,1rTPHG,ETF
+91,Amundi Stoxx Europe Sel Div 30 ETF Dist,1rTSEL,ETF
+92,Amundi PEA Oblig d'État Euro ETF Acc,1rTOBLI,ETF
+93,Lyxor Stoxx Europe 600 Utilities ETF,1rTUTI,ETF
+94,AMUNDI PEA MSCI USA Value ESG UCITS ETF,1rTUSVE,ETF
+95,AMUNDI PEA S&P US Cons Stp ESG UCITS ETF,1rTCOSE,ETF
+96,Amundi MSCI EMU ESG CTB Nt Zr AmbtETFAcc,1rTMFED,ETF
+97,Lyxor STOXX Europe 600 Travel & Lsr ETF,1rTTRV,ETF
+98,Lyxor Stoxx Europe 600 Tel ETF Acc,1rTTELE,ETF
+99,Lyxor Stoxx Europe 600 Fd & Bev ETF Acc,1rTFOO,ETF
+100,Amundi PEA MSCI China ESG Ldrs ETF Acc,1rTPASI,ETF
+101,Lyxor Stoxx Europe 600 Basic Res ETF Acc,1rTBRES,ETF
