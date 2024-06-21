@@ -3,10 +3,9 @@ import json
 import pandas as pd
 import datetime
 import tqdm
-import os
 
 
-def fetch(symbol):
+def fetch(symbol: str):
     url = f"https://www.boursorama.com/bourse/action/graph/ws/GetTicksEOD?symbol={symbol}&length=3650&period=0&guid="
     content = requests.get(url).content
     obj = json.loads(content)
