@@ -71,6 +71,8 @@ def optimize_composition(dataset, symbols):
     print(f"Sharp ratio: {r/v}")
 
     print(new_compo)
+    if r/v > 0.9:
+        plt.plot(dates, pf)
 
     #plt.bar(symbols, weights)
     #plt.show()
@@ -88,10 +90,16 @@ def brute_force():
 
     for i in range(100):
         print("=====================")
-        sub_set = [symbols[random.randint(0, len(symbols)-1)] for i in range(5)]
-        dataset = build_dataset(sub_set)
-        if len(dataset[list(dataset.keys())[0]]) > 1000:
-            optimize_composition(dataset, sub_set)
+        try:
+            sub_set = [symbols[random.randint(0, len(symbols)-1)] for i in range(5)]
+            dataset = build_dataset(sub_set)
+            if len(dataset[list(dataset.keys())[0]]) > 1000:
+                optimize_composition(dataset, sub_set)
+        except Exception:
+            pass
+    
+    plt.show()
+
 
 def run_benchmark(w: dict[str, float]):
     dataset = build_dataset(list(w.keys()))

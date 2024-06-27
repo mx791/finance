@@ -23,8 +23,9 @@ def create_chart(period: int, title: str, out: str):
 
             std = np.std(returns[-period:])*np.sqrt(365)*100
             r = ((np.mean(returns[-period:])-1)*365)*100
+            sharp = r/std
 
-            if std > 100 or std < 0.01 or r/std > 0.7 or r < -10:
+            if std > 100 or std < 0.01 or sharp < 0.9 or r < -10:
                 continue
 
             one_year_return.append(r)
