@@ -79,11 +79,12 @@ def optimize_composition(dataset, symbols):
 
     #plt.plot(dates, pf)
     #plt.show()
+    return dates, pf
 
 def optimize_test():
     symbols = ["1rAEXA1", "MP-805883", "1rTETZ", "0P0000YRWM"]
     df = build_dataset(symbols)
-    optimize_composition(df, symbols)
+    return optimize_composition(df, symbols)
 
 def brute_force():
     symbols = pd.concat([pd.read_csv("./data/etf_list.csv"), pd.read_csv("./data/funds.csv")])["link"].values
@@ -107,6 +108,8 @@ def run_benchmark(w: dict[str, float]):
     plt.plot(d, v)
     plt.show()
 
-
-brute_force()
-# run_benchmark({'MP-8225': 0.11092567753159772, '1rTPAEEM': 0.11163978827261566, 'MP-805815': 0.11417207260514314, 'MP-546198': 0.5502164223985186, '0P00011HCE': 0.11304603919212473})
+d, v = optimize_test()
+df = pd.DataFrame({"date": d, "value": v})
+df.to_csv("./out/example_pf.csv")
+#brute_force()
+#run_benchmark({'MP-8225': 0.11092567753159772, '1rTPAEEM': 0.11163978827261566, 'MP-805815': 0.11417207260514314, 'MP-546198': 0.5502164223985186, '0P00011HCE': 0.11304603919212473})
