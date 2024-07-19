@@ -16,15 +16,15 @@ names, symbol, yearly_return, yearly_std, three_year_return, three_year_std, fiv
 for s in symbols:
 
     try:
-        data = pd.read_csv(f"./data/stocks/{s}.csv")
+        data = pd.read_csv(f"./data/stocks/{s}.csv").sort_values("date").drop_duplicates("date")
     except:
         pass
     returns = get_returns(data["close"].values)
 
-    std = np.std(returns[-252:])*np.sqrt(365)
-    r = (np.mean(returns[-252:])*365)
+    std = np.std(returns[-252:])*np.sqrt(252)
+    r = (np.mean(returns[-252:])*252)
     
-    if std > 100 or std < 0.01:
+    if std > 100 or std < 0.01 or len(data) < 750:
         continue
 
     names.append(etfs[etfs["link"]==s]["name"].values[0])
