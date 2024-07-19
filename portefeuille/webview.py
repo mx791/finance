@@ -129,10 +129,8 @@ def show_dashboard(data: pd.DataFrame):
             html.Div("Durée de l'observation", style=style),
         ]),
         html.Div([
-            dcc.Dropdown([7, 30, 50, 100, 200, 300], 50,
-                id='1-return-period', style=style
-            ), dcc.Dropdown(
-                [7, 30, 50, 100, 200, 300],
+            dcc.Dropdown([7, 30, 50, 100, 200, 300], 50, id='1-return-period', style=style
+            ), dcc.Dropdown([7, 30, 50, 100, 200, 300],
                 50, id='1-mm-period', style=style
             )
         ]),

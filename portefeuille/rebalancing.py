@@ -108,8 +108,28 @@ def run_benchmark(w: dict[str, float]):
     plt.plot(d, v)
     plt.show()
 
-d, v = optimize_test()
-df = pd.DataFrame({"date": d, "value": v})
-df.to_csv("./out/example_pf.csv")
-#brute_force()
-#run_benchmark({'MP-8225': 0.11092567753159772, '1rTPAEEM': 0.11163978827261566, 'MP-805815': 0.11417207260514314, 'MP-546198': 0.5502164223985186, '0P00011HCE': 0.11304603919212473})
+
+def test_current_pf():
+    values = {
+        #"1rTPTPXH": 1600.0,
+        "1rTPUST": 2600.0,
+        #"1rTCW8": 1000,
+        #"1rTESEH": 900.0
+    }
+    sum = np.sum(list(values.values()))
+    for k in values:
+        values[k] = values[k] / sum
+
+    dataset = build_dataset(list(values.keys()))
+    d, v = create_rebalancing_pf(dataset, values, 30)
+    df = pd.DataFrame({"date": d, "value": v})
+    df.to_csv("./out/example_pf.csv")
+
+
+if __name__ == "__main__":
+    test_current_pf()
+    #d, v = optimize_test()
+    #df = pd.DataFrame({"date": d, "value": v})
+    #df.to_csv("./out/example_pf.csv")
+    #brute_force()
+    #run_benchmark({'MP-8225': 0.11092567753159772, '1rTPAEEM': 0.11163978827261566, 'MP-805815': 0.11417207260514314, 'MP-546198': 0.5502164223985186, '0P00011HCE': 0.11304603919212473})
