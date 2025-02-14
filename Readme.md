@@ -1,4 +1,4 @@
-# Data driven investissment
+# Data driven investment
 
 Before touching anything, make sure to have the required dependencies installed locally :
 ```
